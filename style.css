@@ -44,6 +44,11 @@
     color: #F6D25A;
     transition-duration: 0.3s;
 }
+.sidebar-container  .side-item:focus{
+    background-color: black;
+    color: #F6D25A;
+    transition-duration: 0.3s;
+}
 .section-container{
   width: 100%;
  
